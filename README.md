@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img alt="Preview App" src=".github/css_flexbox_gallery.png" width="100%">
+  <img alt="Preview App" src="css_flexbox_gallery.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
