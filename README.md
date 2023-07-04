@@ -7,15 +7,14 @@
   <img alt="Preview App" src="css_flexbox.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Tecnologies
 
-This project was developed with the following technologies:
-(Esse projeto foi desenvolvido com as seguintes tecnologias:)
+This project was developed with:
 
 - HTML
 - CSS 
 
-## 💻 Projeto
+## 💻 Project
 
 Survey form to collect data from your users.
 
@@ -23,5 +22,5 @@ Survey form to collect data from your users.
 
 No Copyright :wave: by https://www.freecodecamp.org
 
-- [Acesse o projeto finalizado, online](https://rodrigocccesar.github.io/css_flexbox_gallery)
+- [Access the finished project, online](https://rodrigocccesar.github.io/css_flexbox_gallery)
 
